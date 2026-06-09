@@ -1,4 +1,3 @@
-[README_MAICON.md](https://github.com/user-attachments/files/28750507/README_MAICON.md)
 # 🛡️ 2025 국방 AI 경진대회 (MAICON) - 8위 입상
 
 본 리포지토리는 2025년 국방 AI 경진대회에서 수행한 **무한궤도 전차 자율주행 + 복합 임무 수행** 프로젝트의 구조와 흐름을 정리한 문서입니다.
